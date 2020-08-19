@@ -2,7 +2,7 @@ A [Giter8][g8] template for DeepLearning4J in Scala
 
 Template license
 ----------------
-Written in 2017 by Patryk patryk@scalac.io
+Written in 2017 by [Scalac](https://scalac.io/?utm_source=scalac_github&utm_campaign=scalac1&utm_medium=web)
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
